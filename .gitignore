@@ -1,0 +1,23 @@
+**/medical_data/
+# Python / Backend
+**/__pycache__/
+**/*.pyc
+**/venv/
+**/.env
+**/.DS_Store
+
+
+# Android / Frontend
+**/.gradle/
+**/local.properties
+**/build/
+app/build/
+**/.idea/
+**/*.iml
+**/google-services.json
+
+**/*.jks
+**/*.keystore
+**/*.key
+
+**/*.log
